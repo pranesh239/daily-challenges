@@ -1,0 +1,26 @@
+{
+  "name": "daily-challenges",
+  "version": "1.0.0",
+  "description": "## Daily-Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranesh239/daily-challenges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranesh239/daily-challenges/issues"
+  },
+  "homepage": "https://github.com/pranesh239/daily-challenges#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-jest": "^24.8.0",
+    "jest": "^24.8.0"
+  }
+}
