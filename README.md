@@ -29,3 +29,5 @@ To run test
 ```bash
 yarn test
 ```
+
+###### _Feel free to raise PRs_ :blush:
