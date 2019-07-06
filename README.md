@@ -6,10 +6,11 @@
 
 ## Challenges:
 
-| Date         | Problem                                                                                              | Reference link                                                      |
-| ------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| July, 3 2019 | [String peeler](https://github.com/pranesh239/daily-challenges/blob/master/String/string-peeler.js)  | https://dev.to/thepracticaldev/daily-challenge-1-string-peeler-4nep |
-| July, 4 2019 | [Vowels counter](https://github.com/pranesh239/daily-challenges/blob/master/String/vowel-counter.js) | https://dev.to/thepracticaldev/daily-challenge-3-vowel-counter-34ni |
+| Date         | Problem                                                                                              | Reference link                                                       |
+| ------------ | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| July, 3 2019 | [String peeler](https://github.com/pranesh239/daily-challenges/blob/master/String/string-peeler.js)  | https://dev.to/thepracticaldev/daily-challenge-1-string-peeler-4nep  |
+| July, 4 2019 | [Vowels counter](https://github.com/pranesh239/daily-challenges/blob/master/String/vowel-counter.js) | https://dev.to/thepracticaldev/daily-challenge-3-vowel-counter-34ni  |
+| July, 6 2019 | [Diamond shape](https://github.com/pranesh239/daily-challenges/blob/master/String/diamond.js)        | https://dev.to/thepracticaldev/daily-challenge-2-string-diamond-21n2 |
 
 ## Built with:
 
